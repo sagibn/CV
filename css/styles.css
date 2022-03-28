@@ -1,0 +1,48 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none none;
+  text-align: center;
+  width: 10%;
+  border-width: 4px;
+  border-color: GREY;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+form {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+strong {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+#contact{
+  font-size: 25px;
+}
